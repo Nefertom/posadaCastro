@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hotelposadacastro.com)",
+      "Skill(anthropic-skills:setup-cowork)",
+      "Skill(anthropic-skills:setup-cowork:*)",
+      "mcp__mcp-registry__search_mcp_registry",
+      "mcp__mcp-registry__list_connectors"
+    ]
+  }
+}
